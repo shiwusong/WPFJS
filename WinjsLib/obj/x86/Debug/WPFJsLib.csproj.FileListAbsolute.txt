@@ -1,0 +1,11 @@
+C:\Users\sws558\Documents\GitHub\WPFJS\WinjsLib\bin\x86\Debug\WPFJsLib.dll
+C:\Users\sws558\Documents\GitHub\WPFJS\WinjsLib\bin\x86\Debug\WPFJsLib.pdb
+C:\Users\sws558\Documents\GitHub\WPFJS\WinjsLib\bin\x86\Debug\HttpServerLib.dll
+C:\Users\sws558\Documents\GitHub\WPFJS\WinjsLib\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\sws558\Documents\GitHub\WPFJS\WinjsLib\bin\x86\Debug\HttpServerLib.pdb
+C:\Users\sws558\Documents\GitHub\WPFJS\WinjsLib\bin\x86\Debug\HttpServerLib.dll.config
+C:\Users\sws558\Documents\GitHub\WPFJS\WinjsLib\obj\x86\Debug\WPFJsLib.csproj.CoreCompileInputs.cache
+C:\Users\sws558\Documents\GitHub\WPFJS\WinjsLib\obj\x86\Debug\WPFJsLib.csproj.CopyComplete
+C:\Users\sws558\Documents\GitHub\WPFJS\WinjsLib\obj\x86\Debug\WPFJsLib.dll
+C:\Users\sws558\Documents\GitHub\WPFJS\WinjsLib\obj\x86\Debug\WPFJsLib.pdb
+C:\Users\sws558\Documents\GitHub\WPFJS\WinjsLib\obj\x86\Debug\WPFJsLib.csprojResolveAssemblyReference.cache

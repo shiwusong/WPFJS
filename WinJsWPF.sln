@@ -1,0 +1,93 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpServerLib", "HttpServerLib\HttpServerLib.csproj", "{1E0D3D93-A351-475F-A62C-925B7000EFF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFJsLib", "WinjsLib\WPFJsLib.csproj", "{7B0D08AC-5716-43E3-8571-C2A005A96027}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFJsForm", "WinJsFormWPF\WPFJsForm.csproj", "{0753F81C-8E49-4D9F-BAAD-D87939903532}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Start", "Start\Start.csproj", "{085372C1-6352-4079-997D-141583503B78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqliteLib", "SqliteLib\SqliteLib.csproj", "{29D849DD-78DA-45C5-B9FF-F228CA3E0419}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E0D3D93-A351-475F-A62C-925B7000EFF0}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{1E0D3D93-A351-475F-A62C-925B7000EFF0}.Debug|Any CPU.Build.0 = Debug|x86
+		{1E0D3D93-A351-475F-A62C-925B7000EFF0}.Debug|x64.ActiveCfg = Debug|x64
+		{1E0D3D93-A351-475F-A62C-925B7000EFF0}.Debug|x64.Build.0 = Debug|x64
+		{1E0D3D93-A351-475F-A62C-925B7000EFF0}.Debug|x86.ActiveCfg = Debug|x86
+		{1E0D3D93-A351-475F-A62C-925B7000EFF0}.Debug|x86.Build.0 = Debug|x86
+		{1E0D3D93-A351-475F-A62C-925B7000EFF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E0D3D93-A351-475F-A62C-925B7000EFF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E0D3D93-A351-475F-A62C-925B7000EFF0}.Release|x64.ActiveCfg = Release|x64
+		{1E0D3D93-A351-475F-A62C-925B7000EFF0}.Release|x64.Build.0 = Release|x64
+		{1E0D3D93-A351-475F-A62C-925B7000EFF0}.Release|x86.ActiveCfg = Release|x86
+		{1E0D3D93-A351-475F-A62C-925B7000EFF0}.Release|x86.Build.0 = Release|x86
+		{7B0D08AC-5716-43E3-8571-C2A005A96027}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{7B0D08AC-5716-43E3-8571-C2A005A96027}.Debug|Any CPU.Build.0 = Debug|x86
+		{7B0D08AC-5716-43E3-8571-C2A005A96027}.Debug|x64.ActiveCfg = Debug|x64
+		{7B0D08AC-5716-43E3-8571-C2A005A96027}.Debug|x64.Build.0 = Debug|x64
+		{7B0D08AC-5716-43E3-8571-C2A005A96027}.Debug|x86.ActiveCfg = Debug|x86
+		{7B0D08AC-5716-43E3-8571-C2A005A96027}.Debug|x86.Build.0 = Debug|x86
+		{7B0D08AC-5716-43E3-8571-C2A005A96027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B0D08AC-5716-43E3-8571-C2A005A96027}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B0D08AC-5716-43E3-8571-C2A005A96027}.Release|x64.ActiveCfg = Release|x64
+		{7B0D08AC-5716-43E3-8571-C2A005A96027}.Release|x64.Build.0 = Release|x64
+		{7B0D08AC-5716-43E3-8571-C2A005A96027}.Release|x86.ActiveCfg = Release|x86
+		{7B0D08AC-5716-43E3-8571-C2A005A96027}.Release|x86.Build.0 = Release|x86
+		{0753F81C-8E49-4D9F-BAAD-D87939903532}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{0753F81C-8E49-4D9F-BAAD-D87939903532}.Debug|Any CPU.Build.0 = Debug|x86
+		{0753F81C-8E49-4D9F-BAAD-D87939903532}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{0753F81C-8E49-4D9F-BAAD-D87939903532}.Debug|x64.Build.0 = Debug|Any CPU
+		{0753F81C-8E49-4D9F-BAAD-D87939903532}.Debug|x86.ActiveCfg = Debug|x86
+		{0753F81C-8E49-4D9F-BAAD-D87939903532}.Debug|x86.Build.0 = Debug|x86
+		{0753F81C-8E49-4D9F-BAAD-D87939903532}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0753F81C-8E49-4D9F-BAAD-D87939903532}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0753F81C-8E49-4D9F-BAAD-D87939903532}.Release|x64.ActiveCfg = Release|Any CPU
+		{0753F81C-8E49-4D9F-BAAD-D87939903532}.Release|x64.Build.0 = Release|Any CPU
+		{0753F81C-8E49-4D9F-BAAD-D87939903532}.Release|x86.ActiveCfg = Release|Any CPU
+		{0753F81C-8E49-4D9F-BAAD-D87939903532}.Release|x86.Build.0 = Release|Any CPU
+		{085372C1-6352-4079-997D-141583503B78}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{085372C1-6352-4079-997D-141583503B78}.Debug|Any CPU.Build.0 = Debug|x86
+		{085372C1-6352-4079-997D-141583503B78}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{085372C1-6352-4079-997D-141583503B78}.Debug|x64.Build.0 = Debug|Any CPU
+		{085372C1-6352-4079-997D-141583503B78}.Debug|x86.ActiveCfg = Debug|x86
+		{085372C1-6352-4079-997D-141583503B78}.Debug|x86.Build.0 = Debug|x86
+		{085372C1-6352-4079-997D-141583503B78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{085372C1-6352-4079-997D-141583503B78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{085372C1-6352-4079-997D-141583503B78}.Release|x64.ActiveCfg = Release|Any CPU
+		{085372C1-6352-4079-997D-141583503B78}.Release|x64.Build.0 = Release|Any CPU
+		{085372C1-6352-4079-997D-141583503B78}.Release|x86.ActiveCfg = Release|Any CPU
+		{085372C1-6352-4079-997D-141583503B78}.Release|x86.Build.0 = Release|Any CPU
+		{29D849DD-78DA-45C5-B9FF-F228CA3E0419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29D849DD-78DA-45C5-B9FF-F228CA3E0419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29D849DD-78DA-45C5-B9FF-F228CA3E0419}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{29D849DD-78DA-45C5-B9FF-F228CA3E0419}.Debug|x64.Build.0 = Debug|Any CPU
+		{29D849DD-78DA-45C5-B9FF-F228CA3E0419}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{29D849DD-78DA-45C5-B9FF-F228CA3E0419}.Debug|x86.Build.0 = Debug|Any CPU
+		{29D849DD-78DA-45C5-B9FF-F228CA3E0419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29D849DD-78DA-45C5-B9FF-F228CA3E0419}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29D849DD-78DA-45C5-B9FF-F228CA3E0419}.Release|x64.ActiveCfg = Release|Any CPU
+		{29D849DD-78DA-45C5-B9FF-F228CA3E0419}.Release|x64.Build.0 = Release|Any CPU
+		{29D849DD-78DA-45C5-B9FF-F228CA3E0419}.Release|x86.ActiveCfg = Release|Any CPU
+		{29D849DD-78DA-45C5-B9FF-F228CA3E0419}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAB5523F-BF7A-41C7-B160-9FCE025A1AF9}
+	EndGlobalSection
+EndGlobal
