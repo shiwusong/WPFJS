@@ -1,4 +1,0 @@
-C:\Users\sws558\source\repos\WinJsWPF\WinJsWPF\obj\x86\Debug\MainWindow.g.cs
-C:\Users\sws558\source\repos\WinJsWPF\WinJsWPF\obj\x86\Debug\App.g.cs
-C:\Users\sws558\source\repos\WinJsWPF\WinJsWPF\obj\x86\Debug\WinJsWPF_MarkupCompile.cache
-C:\Users\sws558\source\repos\WinJsWPF\WinJsWPF\obj\x86\Debug\WinJsWPF_MarkupCompile.lref

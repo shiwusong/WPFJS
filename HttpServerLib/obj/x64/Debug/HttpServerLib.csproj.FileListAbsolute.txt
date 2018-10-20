@@ -1,7 +1,0 @@
-C:\Users\sws558\source\repos\WinJs\HttpServerLib\bin\x64\Debug\HttpServerLib.dll.config
-C:\Users\sws558\source\repos\WinJs\HttpServerLib\bin\x64\Debug\HttpServerLib.dll
-C:\Users\sws558\source\repos\WinJs\HttpServerLib\bin\x64\Debug\HttpServerLib.pdb
-C:\Users\sws558\source\repos\WinJs\HttpServerLib\obj\x64\Debug\HttpServerLib.csprojResolveAssemblyReference.cache
-C:\Users\sws558\source\repos\WinJs\HttpServerLib\obj\x64\Debug\HttpServerLib.csproj.CoreCompileInputs.cache
-C:\Users\sws558\source\repos\WinJs\HttpServerLib\obj\x64\Debug\HttpServerLib.dll
-C:\Users\sws558\source\repos\WinJs\HttpServerLib\obj\x64\Debug\HttpServerLib.pdb
